@@ -1,0 +1,6 @@
+.responsive-image-menu span {
+  display: inline-block;
+}
+.responsive-image-menu span img {
+  width: 100%;
+}
