@@ -37,7 +37,6 @@ Getting Started
 ```javascript
 $(function(){
   $("#panel").responsiveImageMenu({
-    num_cols: 1,
     aspect_ratio: 1,
     list_tag: 'span'
   });
@@ -47,6 +46,9 @@ $(function(){
 * The css is even simpler:
 
 ```css
+.responsive-image-menu {
+  width:100%;
+}
 .responsive-image-menu span {
   display: inline-block;
 }
@@ -59,4 +61,4 @@ $(function(){
 See it in action
 ----------------
 
-* Demo at http://jsfiddle.net
+* Demo at http://jsfiddle.net/etkcK/1/
