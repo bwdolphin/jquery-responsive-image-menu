@@ -58,7 +58,7 @@ $(function(){
 
 ```
 
-See it in action
+See it in action 
 ----------------
 
 * Demo at http://jsfiddle.net/etkcK/1/
